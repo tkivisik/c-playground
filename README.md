@@ -13,3 +13,8 @@ gcc uncompiled.c -o outputfile.x
 ```bash
 ./outputfile.x
 ```
+
+## Thanks to
+
+* [C Programming](https://www.cprogramming.com/) tutorials
+* [Rosetta Code](http://rosettacode.org/wiki/Category:C)
